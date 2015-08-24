@@ -19,7 +19,7 @@ public class Bob3 {
 		return "Service 3 response";					 						 
 	}
     
-    public String defaultFallback2() {
+    public String defaultFallback3() {
 		//System.out.println("default fallback3 method");
         return "defaultfallback3 method";
 	}
